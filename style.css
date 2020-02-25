@@ -1,0 +1,111 @@
+body {
+  background-color: #06d5e6;
+}
+
+p {
+
+  font-family: inherit;
+  font-size: 26px;
+  color: #d30000;
+  background-color: rgb(255, 167, 0);
+  border-color: #ff0093;
+  border-radius: 6px;
+  border-style: ridge;
+    clear: both;
+  
+}
+p.heading{color: #00a7ff;
+background-color: #ffe200;
+border-color: #001dff;}
+h1 {
+  color:rgb(109, 140, 0);
+    background-color: #0045ff;
+    border-color: #004b23;
+    font-weight: bold;
+    font-size: 80.71px;
+    text-align: center;
+        border-style: dashed;
+    border-width: 8px
+    
+    
+}
+img.r{float: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+border-color:#004eff;
+border-width:5px;
+border-style:ridge;}
+img{width:30%;
+}
+ol{background-color: rgb(255, 167, 0);
+color: #d30000;
+font-size: 20px;
+border-color: #ff0093;
+border-radius: 6px;
+border-style: ridge;}
+h2{font-size: 65px;
+color:#006000;
+text-align: center;
+text-decoration: underline;}
+h3{font-size:130px;
+color: #0062ff;
+background-color: #ffb50e;
+text-align: center}
+h2.v{ color: #00ebff;
+background-color: #254fff;
+width:40%;
+margin:auto;
+margin-bottom: 20px}
+p.m{color: #ffb100;}
+body.fall{background-color: #8600d9;}
+body.winter{background-color: black}
+h2.spring{background-color: lime;
+color: magenta; border-color: darkgreen}
+body.spring{background-color: #14ff00;}
+p.spring{color: #003400;
+background-color:yellow;
+border-color:#9d00ff;}
+h1.spring{background-color: rgb(66, 255, 204);
+color:#969600;
+border-color: blue;}
+
+.center
+{text-align: center;
+}
+
+
+img.c{float: center;}
+a.b {
+    display:block;
+    clear: both;
+}
+p.l{border-color:aqua;
+background-color: azure;
+color:blue;}
+p.e{margin-top: 0px;
+font-size:16px;
+font-style:italic;
+border-width: 0px;
+color:#ff8000;
+background-color: #0000c3;
+width: 33%;
+margin: auto;}
+img.z{width:30%
+    margin: auto;}
+p.bb{margin-top: 0px;
+font-size:16px;
+font-style:italic;
+border-width: 0px;
+color:#ff8000;
+background-color: #0000c3;
+width: 63%;
+margin: auto;}
+p.one{margin-top: 0px;
+font-size:16px;
+font-style:italic;
+border-width: 0px;
+color: #62ff00;
+background-color: #1ccccc;
+width: 60%;}
+img.spring{width:60%;
+margin:auto;}
