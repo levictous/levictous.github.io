@@ -14,7 +14,7 @@ p {
     clear: both;
   
 }
-p.heading{color: #00a7ff;
+p.heading{color: rgb(30,180,255);
 background-color: #ffe200;
 border-color: #001dff;}
 h1 {
